@@ -1,4 +1,4 @@
-# Website Live at : https://shotifylink.herokuapp.com
+# Website Live at : https://links-mrdhruv.azurewebsites.net/
 
 # Local Setup
 ### `npm i`
