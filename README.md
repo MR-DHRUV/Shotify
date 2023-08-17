@@ -7,7 +7,7 @@ Installs the required npm packages
 ### `Setting up enviourment`
 
 ```js
-create a fine named as .env in the root directory of the project
+create a file named as .env in the root directory of the project
 
 craete a key named as "mongoURI" in it and add your mongoDB URI as its value like this ⬇️.
 mongoURI = yourMongoDBURI
